@@ -1,0 +1,24 @@
+{
+  "name": "20190717",
+  "version": "1.0.0",
+  "description": "选项卡菜单",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunchun001/20190717.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chunchun001/20190717/issues"
+  },
+  "homepage": "https://github.com/chunchun001/20190717#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "vue": "^2.6.10"
+  }
+}
