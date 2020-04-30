@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/chunchun001/20190717#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "vue": "^2.6.10"
   }
 }
